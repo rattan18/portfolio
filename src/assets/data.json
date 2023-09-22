@@ -1,0 +1,39 @@
+{
+  "projects": [
+    {
+      "tech": "MERN Stack App",
+      "title": "I-NOTES",
+      "description": "iNotes is a MERN app in which you can store your notes in cloud. It has a fully. It also has a user authentication system for storing and reading a user and its data from database in MongoDB",
+      "url": "https://inotes-mern-app.netlify.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2018/04/07/08/28/notepad-3297994_1280.jpg"
+    },
+    {
+      "tech": "React App",
+      "title": "RATTAN TECH",
+      "description": "RattanTech is a React app developed using ReactJS and ChakraUI which displays the landing page and also it is made fully responsive using SCSS",
+      "url": "https://rattan-tech-react.vercel.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+    },
+    {
+      "tech": "React App",
+      "title": "VIDEO HUB",
+      "description": "VideoHub is a React app developed using ReactJS and ChakraUI that displays the left drawer navigation and also it is made fully responsive using SCSS",
+      "url": "https://video-hub-react-two.vercel.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    },
+    {
+      "tech": "React API App",
+      "title": "XCrypto",
+      "description": "XCrypto is a crypto information app developed using ReactJS mirroring the original crypto info from the coinsgeckoAPI. Integrated APIs to fetch and display news show data demonstrating API integration skills",
+      "url": "https://x-crypto-react.vercel.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+    },
+    {
+      "tech": "React API App",
+      "title": "NEWS WORLD",
+      "description": "NewsWorld is a news app developed using HTML5 CSS3 JavaScript and ReactJS mirroring the original News from the newsAPI. Integrated APIs to fetch and display news show data demonstrating API integration skills",
+      "url": "https://news-world-react.vercel.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/10/10/18/40/news-1729539_1280.jpg"
+    }
+  ]
+}
